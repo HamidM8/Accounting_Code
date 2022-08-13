@@ -1,0 +1,5 @@
+DEBUG 2022-08-13 17:58:35,803: debug test
+INFO 2022-08-13 17:58:35,804: info test
+WARNING 2022-08-13 17:58:35,804: warning test
+ERROR 2022-08-13 17:58:35,805: error test
+CRITICAL 2022-08-13 17:58:35,805: critical test
